@@ -1,6 +1,9 @@
 ![ML Model CI](https://github.com/ejiroosoro/Weather-Data-Pipeline/actions/workflows/pipeline.yml/badge.svg)
 
+
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ejiro-osoro---weather-data-pipeline.streamlit.app)
+
 
 # 🌤️ Weather Data Pipeline
 
