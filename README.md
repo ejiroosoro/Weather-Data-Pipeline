@@ -1,3 +1,7 @@
+![ML Model CI](https://github.com/ejiroosoro/Weather-Data-Pipeline/actions/workflows/pipeline.yml/badge.svg)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ejiroosoro-weather-data-pipeline.streamlit.app)
+
 # 🌤️ Weather Data Pipeline
 
 A data engineering portfolio project that fetches 48 hours of real weather data for multiple cities, cleans it, and saves it — with a live Streamlit dashboard and GitHub Actions automation.
