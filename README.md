@@ -15,7 +15,7 @@ A data engineering portfolio project that fetches 48 hours of real weather data 
 
 ## 🚀 Live Dashboard
 
-👉 **[View Live Dashboard](https://your-username-weather-pipeline.streamlit.app)**
+👉 **[View Live Dashboard](https://ejiro-osoro---weather-pipeline.streamlit.app)**
 *(Deploy on [Streamlit Community Cloud](https://streamlit.io/cloud) for free)*
 
 ---
