@@ -62,7 +62,7 @@ weather-data-pipeline/
 
 ```bash
 # 1. Clone & install
-git clone https://github.com/YOUR_USERNAME/weather-data-pipeline.git
+git clone https://github.com/ejiroosoro/weather-data-pipeline.git
 cd weather-data-pipeline
 pip install -r requirements.txt
 
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 python run.py
 
 # 3. Run for specific cities
-python run.py --cities Lahore London "New York" Tokyo Dubai Karachi
+python run.py --cities Doha London New-York Tokyo Dubai Karachi
 
 # 4. Launch dashboard
 streamlit run dashboard.py
@@ -89,7 +89,7 @@ Every push to `main` automatically runs the pipeline and commits fresh data back
 4. Type your cities → Click **Run workflow**
 
 ```
-Cities: Lahore London "New York" Tokyo
+Cities: Doha London "New York" Tokyo
 ```
 
 ---
