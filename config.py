@@ -20,7 +20,7 @@ HOURLY_VARIABLES = [
 ]
 
 # --- Default Cities (used when no --cities argument is given) ---
-DEFAULT_CITIES = ["Lahore", "London", "New York"]
+DEFAULT_CITIES = ["Doha", "London", "New York"]
 
 # --- Storage ---
 DATA_DIR     = Path("data")
